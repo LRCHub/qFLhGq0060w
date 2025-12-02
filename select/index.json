@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "I Feel It Coming ft. Daft Punk (Official Video)",
+  "base_artist": "The Weeknd",
+  "createdAt": "2025-12-02T08:02:53.249216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Feel It Coming ft. Daft Punk",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/01_I_Feel_It_Coming_ft._Daft_Punk_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Feel It Coming ft. Daft Punk (Official Video)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/02_I_Feel_It_Coming_ft._Daft_Punk_(Official_Video)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Feel It Coming (ft. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_I_Feel_It_Coming_(ft._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Feel It Coming (ft. Daft Punk)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/04_I_Feel_It_Coming_(ft._Daft_Punk)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Weeknd - I Feel It Coming ft. Daft Punk (Official Video)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_The_Weeknd_-_I_Feel_It_Coming_ft._Daft_Punk_(Official_Video)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Feel It Coming ft. Daft Punk (Official Video) (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_I_Feel_It_Coming_ft._Daft_Punk_(Official_Video)_(feat._Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Feel It Coming ft. Daft Punk (Official Video) (cu Daft Punk)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/07_I_Feel_It_Coming_ft._Daft_Punk_(Official_Video)_(cu_Daft_Punk)_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd, Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_I_Feel_It_Coming_The_Weeknd,_Daft_Punk.txt"
+    }
+  ]
+}
